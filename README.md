@@ -4,7 +4,7 @@ This is a sample application for the [Integration and Verification Techniques](h
 
 The application is simplified and deliberately contains bugs.
 
-Here comes the change...
+Here comes the change... or not
 
 ## Getting started
 
