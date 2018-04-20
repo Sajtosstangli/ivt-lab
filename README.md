@@ -6,6 +6,7 @@ The application is simplified and deliberately contains bugs.
 
 Here comes the change... or not
 
+
 ## Getting started
 
 - The project is implemented in Java 8.
